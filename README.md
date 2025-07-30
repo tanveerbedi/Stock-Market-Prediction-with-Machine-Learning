@@ -184,9 +184,9 @@ Our **Stock Market Prediction** web app demonstrates the practical implementatio
 
 ## 🧑‍💻 Author
 
-Made with ❤️ by **Tanveer Singh**
-🔗 [GitHub](https://github.com/tanveerbedi)
-📧 [Email](mailto:tsbedi2604@gmail.com)
+Made with ❤️ by **Tanveer Singh** 
+
+🔗 [GitHub](https://github.com/tanveerbedi) | 📧 [Email](mailto:tsbedi2604@gmail.com)
 
 ---
 
